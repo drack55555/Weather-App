@@ -1,6 +1,8 @@
 # weatherapp
 
-A new Flutter project.
+A weather app which shows current weather condition of a particular city(here Ranchi).
+
+To see your city weather condition change the city name in URL given to your current city name.
 
 ## Getting Started
 
